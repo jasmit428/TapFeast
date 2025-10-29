@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Small helper to force full-bleed app on tablets */
+html, body, #__next {
+  height: 100%;
+}
