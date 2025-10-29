@@ -1,7 +1,7 @@
 import '../styles/globals.css';
 
 export const metadata = {
-  title: 'Tablemate',
+  title: 'TapFeast',
   description: 'Tablet-based menu and ordering system',
 }
 

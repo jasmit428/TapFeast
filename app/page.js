@@ -3,7 +3,7 @@ import Link from 'next/link'
 export default function Home() {
   return (
     <main className="min-h-screen flex flex-col items-center justify-center p-6">
-      <h1 className="text-4xl font-bold mb-4">Tablemate</h1>
+      <h1 className="text-4xl font-bold mb-4">TapFeast</h1>
       <p className="mb-6 text-center max-w-xl">
         Tablet-based digital menu and ordering prototype. Tap “Open Menu” to start.
       </p>
