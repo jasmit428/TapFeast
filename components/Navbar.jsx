@@ -8,13 +8,13 @@ export default function Navbar() {
         {/* Logo + Brand Name */}
         <Link href="/" className="flex items-center gap-2">
           <Image
-            src="/images/logo.png"
+            src= "/images/logo.png"
             alt="TapFeast Logo"
-            width={30}
-            height={30}
+            width={75}
+            height={75}
             className="object-contain"
           />
-          <span className="text-lg font-semibold">TapFeast</span>
+          {/* <span className="text-lg font-semibold">TapFeast</span> */}
         </Link>
 
         {/* Navigation */}
